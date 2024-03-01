@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm trying to create a game where seals appear in Swift.
+I had stuidied particle physics for two years in Japan. 
+My interest is Badminton, Rubic's cube, Seal🦭. 
+Please reach out to me through gompiyo[at]gmail.com if you have any inquiries.
+
 <!--
 **gompiyo/gompiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
